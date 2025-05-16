@@ -77,7 +77,8 @@ String password = "tu_contraseña";
 
 ## Capturas de pantalla
 ### Pantalla de inicio de sesión:
-![Pantalla de inicio de sesión](ruta/a/tu/imagen.png)
+![image](https://github.com/user-attachments/assets/64a82d8b-607f-4774-9eae-7cee207165d8)
+
 
 ---
 
